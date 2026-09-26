@@ -6,4 +6,16 @@
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+  <url>
+    <loc>https://www.dongbaektour.co.kr/</loc>
+    <lastmod>2026-09-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dongbaektour.co.kr/blog/</loc>
+    <lastmod>2026-09-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dongbaektour.co.kr/blog/myrealtrip-stay-coupon-hotel-flight/</loc>
+    <lastmod>2026-09-26</lastmod>
+  </url>
 </urlset>
